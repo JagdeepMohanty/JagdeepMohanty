@@ -41,7 +41,7 @@
 Name        : Jagdeep Mohanty
 Degree      : B.Tech — Computer Science & Engineering (CSE)
 Semester    : 6th Semester (3rd Year)
-University  : Rai university
+University  : [Your University Name]
 Focus       : Full-Stack Web Development · Backend Engineering · API Design
 Deployed    : EasyXpense → Live on Netlify + Render (React + Flask + MongoDB Atlas)
 Available   : Open to internships, freelance projects & collaborations
@@ -121,113 +121,48 @@ I'm a **Computer Science Engineering student** who builds and ships real-world f
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=4" width="100%"/>
-
-<br/>
-
 <!-- ══════════ ⚡ OVERVIEW & STREAK ══════════ -->
 
-<img src="https://img.shields.io/badge/⚡_Overview_and_Streak-0F2027?style=for-the-badge&amp;logo=github&amp;logoColor=4FC3F7&amp;labelColor=0F2027&amp;color=2C5364"/>
+### ⚡ Overview & Streak
 
-<br/><br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JagdeepMohanty&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true)](https://github.com/JagdeepMohanty)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JagdeepMohanty&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/JagdeepMohanty)
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=JagdeepMohanty&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;count_private=true&amp;include_all_commits=true"
-  width="47%"
-  alt="GitHub Stats"
-/>
-&nbsp;&nbsp;
-<img
-  src="https://streak-stats.demolab.com?user=JagdeepMohanty&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12"
-  width="47%"
-  alt="GitHub Streak"
-/>
-
-<br/><br/>
+<br/>
 
 <!-- ══════════ 🗣️ TOP LANGUAGES ══════════ -->
 
-<img src="https://img.shields.io/badge/🗣️_Top_Languages-0F2027?style=for-the-badge&amp;logo=github&amp;logoColor=4FC3F7&amp;labelColor=0F2027&amp;color=2C5364"/>
+### 🗣️ Top Languages
 
-<br/><br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagdeepMohanty&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;langs_count=8"
-  width="50%"
-  alt="Top Languages"
-/>
-
-<br/><br/>
-
-<!-- ══════════ 🏆 TROPHIES ══════════ -->
-
-<img src="https://img.shields.io/badge/🏆_Achievements-0F2027?style=for-the-badge&amp;logo=github&amp;logoColor=4FC3F7&amp;labelColor=0F2027&amp;color=2C5364"/>
-
-<br/><br/>
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=JagdeepMohanty&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;row=1&amp;column=7"
-  width="100%"
-  alt="GitHub Trophies"
-/>
-
-<br/><br/>
-
-<!-- ══════════ 📅 ACTIVITY GRAPH ══════════ -->
-
-<img src="https://img.shields.io/badge/📅_Contribution_Graph-0F2027?style=for-the-badge&amp;logo=github&amp;logoColor=4FC3F7&amp;labelColor=0F2027&amp;color=2C5364"/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=JagdeepMohanty&amp;theme=tokyo-night&amp;hide_border=true&amp;radius=6"
-  width="98%"
-  alt="Contribution Graph"
-/>
-
-<br/><br/>
-
-<!-- ══════════ 📊 SUMMARY CARDS ══════════ -->
-
-<img src="https://img.shields.io/badge/📊_Contribution_Summary-0F2027?style=for-the-badge&amp;logo=github&amp;logoColor=4FC3F7&amp;labelColor=0F2027&amp;color=2C5364"/>
-
-<br/><br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagdeepMohanty&amp;theme=tokyonight"
-  width="97%"
-  alt="Profile Summary"
-/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JagdeepMohanty&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8)](https://github.com/JagdeepMohanty)
 
 <br/>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JagdeepMohanty&amp;theme=tokyonight"
-  width="31%"
-  alt="Repos per Language"
-/>
-&nbsp;
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JagdeepMohanty&amp;theme=tokyonight"
-  width="31%"
-  alt="Most Commit Language"
-/>
-&nbsp;
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JagdeepMohanty&amp;theme=tokyonight"
-  width="31%"
-  alt="Stats"
-/>
+<!-- ══════════ 🏆 TROPHIES ══════════ -->
 
-<br/><br/>
+### 🏆 Achievements
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2C5364,50:203A43,100:0F2027&amp;height=4" width="100%"/>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=JagdeepMohanty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/JagdeepMohanty)
 
-</div>
+<br/>
 
-<br/><br/>
+<!-- ══════════ 📅 ACTIVITY GRAPH ══════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,50:203A43,100:0F2027&height=4" width="100%"/>
+### 📅 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JagdeepMohanty&theme=tokyo-night&hide_border=true&radius=6)](https://github.com/JagdeepMohanty)
+
+<br/>
+
+<!-- ══════════ 📊 SUMMARY CARDS ══════════ -->
+
+### 📊 Contribution Summary
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagdeepMohanty&theme=tokyonight)](https://github.com/JagdeepMohanty)
+
+[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JagdeepMohanty&theme=tokyonight)](https://github.com/JagdeepMohanty)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JagdeepMohanty&theme=tokyonight)](https://github.com/JagdeepMohanty)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JagdeepMohanty&theme=tokyonight)](https://github.com/JagdeepMohanty)
 
 </div>
 
@@ -287,7 +222,6 @@ I'm a **Computer Science Engineering student** who builds and ships real-world f
 
 <br/>
 
-<!--  ── QUOTE CARD ── -->
 <table>
   <tr>
     <td align="center" style="padding: 20px 40px; background:#03001C; border:2px solid #301E67; border-radius:16px;">
@@ -317,9 +251,5 @@ I'm a **Computer Science Engineering student** who builds and ships real-world f
 [![Followers](https://img.shields.io/github/followers/JagdeepMohanty?label=Followers&style=flat-square&color=86C8BC)](https://github.com/JagdeepMohanty)
 &nbsp;&nbsp;
 [![EasyXpense Stars](https://img.shields.io/github/stars/JagdeepMohanty/easyxpense?style=flat-square&label=EasyXpense+Stars&color=5B8FB9)](https://github.com/JagdeepMohanty/easyxpense)
-
-
-
-
 
 </div>
