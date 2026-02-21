@@ -41,7 +41,7 @@
 Name        : Jagdeep Mohanty
 Degree      : B.Tech — Computer Science & Engineering (CSE)
 Semester    : 6th Semester (3rd Year)
-University  : [Your University Name]
+University  : Rai university
 Focus       : Full-Stack Web Development · Backend Engineering · API Design
 Deployed    : EasyXpense → Live on Netlify + Render (React + Flask + MongoDB Atlas)
 Available   : Open to internships, freelance projects & collaborations
