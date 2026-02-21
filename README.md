@@ -121,48 +121,50 @@ I'm a **Computer Science Engineering student** who builds and ships real-world f
 
 <div align="center">
 
-<!-- ══════════ ⚡ OVERVIEW & STREAK ══════════ -->
+**⚡ Overview & Streak**
 
-### ⚡ Overview & Streak
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JagdeepMohanty&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true)](https://github.com/JagdeepMohanty)
-[![GitHub Streak](https://streak-stats.demolab.com?user=JagdeepMohanty&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/JagdeepMohanty)
-
-<br/>
-
-<!-- ══════════ 🗣️ TOP LANGUAGES ══════════ -->
-
-### 🗣️ Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JagdeepMohanty&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8)](https://github.com/JagdeepMohanty)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JagdeepMohanty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=JagdeepMohanty&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- ══════════ 🏆 TROPHIES ══════════ -->
+**🗣️ Top Languages**
 
-### 🏆 Achievements
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=JagdeepMohanty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/JagdeepMohanty)
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JagdeepMohanty&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/>
 
-<!-- ══════════ 📅 ACTIVITY GRAPH ══════════ -->
+**🏆 Achievements**
 
-### 📅 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JagdeepMohanty&theme=tokyo-night&hide_border=true&radius=6)](https://github.com/JagdeepMohanty)
+<img src="https://github-profile-trophy.vercel.app/?username=JagdeepMohanty&theme=tokyonight&row=2&column=4" alt="GitHub Trophies" />
 
 <br/>
 
-<!-- ══════════ 📊 SUMMARY CARDS ══════════ -->
+**📅 Contribution Graph**
 
-### 📊 Contribution Summary
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JagdeepMohanty&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagdeepMohanty&theme=tokyonight)](https://github.com/JagdeepMohanty)
+<br/>
 
-[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JagdeepMohanty&theme=tokyonight)](https://github.com/JagdeepMohanty)
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JagdeepMohanty&theme=tokyonight)](https://github.com/JagdeepMohanty)
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JagdeepMohanty&theme=tokyonight)](https://github.com/JagdeepMohanty)
+**📊 Contribution Summary**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagdeepMohanty&theme=tokyonight" alt="Profile Details" />
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JagdeepMohanty&theme=tokyonight" alt="Repos per Language" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JagdeepMohanty&theme=tokyonight" alt="Most Commit Language" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JagdeepMohanty&theme=tokyonight" alt="Stats" /></td>
+  </tr>
+</table>
 
 </div>
 
