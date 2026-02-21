@@ -41,7 +41,7 @@
 Name        : Jagdeep Mohanty
 Degree      : B.Tech — Computer Science & Engineering (CSE)
 Semester    : 6th Semester (3rd Year)
-University  : Rai university
+University  : Rai University
 Focus       : Full-Stack Web Development · Backend Engineering · API Design
 Deployed    : EasyXpense → Live on Netlify + Render (React + Flask + MongoDB Atlas)
 Available   : Open to internships, freelance projects & collaborations
@@ -144,7 +144,18 @@ I'm a **Computer Science Engineering student** who builds and ships real-world f
 
 **🏆 Achievements**
 
-<img src="https://github-profile-trophy.vercel.app/?username=JagdeepMohanty&theme=tokyonight&row=2&column=4" alt="GitHub Trophies" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=JagdeepMohanty&theme=flat&column=4&row=1" alt="GitHub Trophies" onerror="this.style.display='none'"/>
+    </td>
+  </tr>
+</table>
+
+![commits](https://img.shields.io/badge/Total%20Commits-Active-brightgreen?style=for-the-badge&logo=github)
+![repos](https://img.shields.io/badge/Public%20Repos-18-blue?style=for-the-badge&logo=github)
+![stars](https://img.shields.io/github/stars/JagdeepMohanty/easyxpense?style=for-the-badge&label=Stars%20Earned&color=yellow)
+![followers](https://img.shields.io/github/followers/JagdeepMohanty?style=for-the-badge&label=Followers&color=orange)
 
 <br/>
 
