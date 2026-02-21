@@ -144,18 +144,12 @@ I'm a **Computer Science Engineering student** who builds and ships real-world f
 
 **🏆 Achievements**
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=JagdeepMohanty&theme=flat&column=4&row=1" alt="GitHub Trophies" onerror="this.style.display='none'"/>
-    </td>
-  </tr>
-</table>
-
-![commits](https://img.shields.io/badge/Total%20Commits-Active-brightgreen?style=for-the-badge&logo=github)
-![repos](https://img.shields.io/badge/Public%20Repos-18-blue?style=for-the-badge&logo=github)
-![stars](https://img.shields.io/github/stars/JagdeepMohanty/easyxpense?style=for-the-badge&label=Stars%20Earned&color=yellow)
-![followers](https://img.shields.io/github/followers/JagdeepMohanty?style=for-the-badge&label=Followers&color=orange)
+![MultiLanguage](https://img.shields.io/badge/🌐_Multi--Language-Developer-tokyonight?style=for-the-badge&logo=github&logoColor=white&color=1a1b27&labelColor=70a5fd)
+![Repos](https://img.shields.io/badge/📦_Public_Repos-18-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=bf91f3&color=1a1b27)
+![Commits](https://img.shields.io/badge/💻_Commits-Active_Contributor-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=38bdae&color=1a1b27)
+![Stars](https://img.shields.io/github/stars/JagdeepMohanty/easyxpense?style=for-the-badge&logo=github&logoColor=white&label=⭐_Stars_Earned&color=1a1b27&labelColor=70a5fd)
+![Followers](https://img.shields.io/github/followers/JagdeepMohanty?style=for-the-badge&logo=github&logoColor=white&label=👥_Followers&color=1a1b27&labelColor=bf91f3)
+![Profile Views](https://komarev.com/ghpvc/?username=JagdeepMohanty&style=for-the-badge&color=38bdae&label=👁️_Profile+Views)
 
 <br/>
 
